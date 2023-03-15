@@ -1,0 +1,154 @@
+body {
+    margin: 0;
+}
+#kolkata-cover{
+    background-image: url(cover-photo.jpg);
+background-size: cover;
+    position: absolute;
+    width: 1700px;
+    height: 600px;
+    left: 0px;
+    top: 0px;
+    margin-bottom: 0px;;
+}
+#head1{
+    position: absolute;
+width: 601px;
+height: 44px;
+left: 549px;
+top: 192px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 95px;
+line-height: 37px;
+text-align: center;
+
+background-color: #112326;
+color: #9E998E;
+
+}
+#head2{
+    position: absolute;
+    width: 601px;
+    height: 48px;
+    left: 550px;
+    top: 362px;
+    font-family: 'Arial';
+    font-style:italic;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 37px;
+    text-align: center;
+    background-color: #112326;
+color: #9E998E;
+}
+
+#tour-places{
+    margin-top: 0px;
+position: absolute;
+width: 1720px;
+height: 678px;
+left: 0px;
+top: 643px;
+
+background: #F1FAEE;
+}
+#heading-tourpart{
+    position: absolute;
+width: 1039px;
+height: 20px;
+left: 290px;
+top: 0px;
+
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 54px;
+line-height: 88px;
+text-align: center;
+
+color: #1D3557;
+}
+.heading-tourpart{
+    text-align: center;
+    text-shadow: 0 2px 2px;
+}
+.tour-places-images{
+    margin :120px;
+    text-align: center;
+    display: flex;
+    gap: 100px;
+    justify-content:space-between;
+    color: #1D3557;
+}
+.place-photu1{
+    width: 60%;
+    border-radius: 45%;
+}
+.place-photu2{
+    width:60%;
+    border-radius: 45%;
+}
+.place-photu3{
+    
+    width: 60%;
+    border-radius: 45%;
+}
+#guide{
+   position: absolute;
+margin-left: 230px;
+margin-top: 0px;;
+width: 920px;
+height: 178px;
+left: 100px;
+top: 1421px;
+background: #FFFFFF;
+}
+#guide-box{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+  margin-top:10px;
+  margin-left:70px;
+  margin-right: 70px;
+  margin-bottom: 40px;;
+  position: absolute;
+  background: #A8DADC;
+  box-shadow: 0px 9px 0px #1D3557;
+  border-radius: 40px;
+  padding: 17px;
+  color: #1D3557;
+}
+#tour-guide{
+    width:45%;
+    border-radius: 50%;
+}
+.tgh1{
+font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 28px;
+text-align: center;
+}
+
+.tgp{
+font-family: 'Arial';
+font-style: italic;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+}
+.tgh2{
+    font-family: 'Arial';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 18px;
+text-align: center;
+}
+
